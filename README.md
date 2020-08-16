@@ -3,6 +3,11 @@
 ## Start File
 ![image](https://user-images.githubusercontent.com/52837649/90323177-9c793b80-df2b-11ea-8bd9-775cd46b4e2d.png)
 
+## Task
+1. Loop through all credit cards
+
+2. Summarize the total credit card purchases for each Credit Card brand and add it to the summary table
+
 ## Finished File
 ![image](https://user-images.githubusercontent.com/52837649/90323676-9cc90500-df32-11ea-8ea3-5b0c4f38f8d9.png)
 
